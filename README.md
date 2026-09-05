@@ -32,4 +32,4 @@ index.html: Contiene la estructura principal del documento.
 
 style.css: Incluye los estilos aplicados a la luna y el fondo de la página (si se maneja mediante un archivo externo).
 
-script.js: Implementa el movimiento de la luna y la generación de cráteres.
+script.js: Implementa el movimiento de la luna y la generación de cráteres
